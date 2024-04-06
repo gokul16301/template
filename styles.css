@@ -1,0 +1,20 @@
+div{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+h1 {
+	color: green;
+}
+img {
+	height: 100px;
+
+}
+
+button {
+	color: green;
+	padding: 10px;
+	font-size: large;
+	font-weight: 500;
+}
